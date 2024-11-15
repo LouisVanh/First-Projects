@@ -1,3 +1,2 @@
 # FirstProjects
-start of programming (age 14)
-yeet
+start of programming (age 12)
